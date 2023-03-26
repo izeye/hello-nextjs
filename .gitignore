@@ -1,0 +1,5 @@
+/.idea/
+/.next/
+/node_modules/
+/hello-nextjs.iml
+/package-lock.json
